@@ -1,0 +1,6 @@
+C:\Users\ferna_000\Desktop\GFT\NumerosImpares\NumerosImpares\bin\Debug\NumerosImpares.exe.config
+C:\Users\ferna_000\Desktop\GFT\NumerosImpares\NumerosImpares\bin\Debug\NumerosImpares.exe
+C:\Users\ferna_000\Desktop\GFT\NumerosImpares\NumerosImpares\bin\Debug\NumerosImpares.pdb
+C:\Users\ferna_000\Desktop\GFT\NumerosImpares\NumerosImpares\obj\Debug\NumerosImpares.csprojResolveAssemblyReference.cache
+C:\Users\ferna_000\Desktop\GFT\NumerosImpares\NumerosImpares\obj\Debug\NumerosImpares.exe
+C:\Users\ferna_000\Desktop\GFT\NumerosImpares\NumerosImpares\obj\Debug\NumerosImpares.pdb
