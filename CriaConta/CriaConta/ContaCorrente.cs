@@ -13,6 +13,10 @@ namespace CriaConta
             
             this.saldo = saldo * 0.03;
         }
-        
+        public double calcularImposto()
+        {
+            this.saldo = saldo * 0.25;
+        }
+
     }
 }
